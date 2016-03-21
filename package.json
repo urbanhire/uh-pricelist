@@ -1,0 +1,19 @@
+{
+  "name": "uh-pricelist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urbanhire/uh-pricelist.git"
+  },
+  "author": "Aldi Priya Perdana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urbanhire/uh-pricelist/issues"
+  },
+  "homepage": "https://github.com/urbanhire/uh-pricelist#readme"
+}
